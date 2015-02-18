@@ -15,3 +15,5 @@ Per activar el script fixnetwork:
 
 El script netdate-sh simplement configura internet hora i zona.
 El script x11vnc.sh arranca els servicor vnc.
+
+Els scripts referents a les instalacions el que fan es instalar i configurar la bbb despres de fer un flash a la memoria emmc amb la imatge de [Debian Jessie del dia 1.2.15](http://elinux.org/Beagleboard:BeagleBoneBlack_Debian#Jessie_Snapshot).
